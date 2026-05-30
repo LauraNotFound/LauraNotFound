@@ -14,7 +14,7 @@ Me apasiona construir tecnología con propósito real, resolviendo problemas de 
 
 **IA · Datos · IoT**
 
-![IA y Datos](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,arduino,gcp,azure) <img src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.svg" alt="SQL" width="48" style="background-color:#242938; border-radius:11px; margin-bottom:-10px;"/> <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Emblem-700x394.jpg" alt="Oracle" width="60" style="background-color:#242938; border-radius:8px; margin-bottom:-10px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" style="background-color:#242938; border-radius:8px; margin-bottom:-10px;"/>
+![IA y Datos](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,arduino,gcp,azure) <img src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.svg" alt="SQL" width="38" style="background-color:#242938; border-radius:11px; margin-bottom:-10px;"/> <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Emblem-700x394.jpg" alt="Oracle" width="60" style="background-color:#242938; border-radius:8px; margin-bottom:-10px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" style="background-color:#242938; border-radius:8px; margin-bottom:-10px;"/>
 </p>
 
 **Desarrollo · Web · Herramientas**
