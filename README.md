@@ -25,7 +25,7 @@ Me apasiona construir tecnología con propósito real — resolviendo problemas 
 ## ⚡ Sobre mí
  
 - 🍄 Me gusta el diseño de una base de datos robusta o entrenar un modelo, también construir interfaces y arquitecturas web — lo que más me engancha es cuando el problema tiene un propósito social.
-- 🍄 **Fun fact:** Cuando no estoy programando ni en algún evento tech, me encuentras en alguna cancha de fútbol, en alguna butaca de teatro o cine.
+- 🍄 **Fun fact:** Cuando no estoy programando ni en algún evento tech, me encuentras en alguna cancha de fútbol, en una butaca de algún teatro o algún cine.
 
 ---
 
