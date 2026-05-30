@@ -4,7 +4,7 @@
 
 ### Ingeniera de Software en formación · IoT · Data & AI 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Apasionada+por+la+IA+y+el+Machine+Learning;Construyendo+soluciones+con+IoT+y+Microcontroladores;Arquitectura+de+Software+y+Datos;Impulsando+comunidades+Tech&font=Fira+Code&center=true&width=550&height=45&color=E93A85&vCenter=true&pause=1000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Apasionada+por+la+IA+y+el+Machine+Learning;Construyendo+soluciones+con+IoT;Fiel+creyente+del+poder+de+los+Datos;Participando+en+comunidades+Tech&font=Fira+Code&center=true&width=550&height=45&color=E93A85&vCenter=true&pause=1000" alt="Typing SVG" />
 
 ✨ Me apasiona construir tecnología con propósito real, resolviendo problemas de alto impacto ✨
 
