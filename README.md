@@ -1,4 +1,4 @@
-# Hola, soy Laura 👋
+# Hola, soy Laura 🍄
 
 ### Ingeniera de Software en formación · IoT · Data & AI 🚀
 
@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Apasionada+por+la+IA+y+el+Machine+Learning;Construyendo+soluciones+con+IoT+y+Microcontroladores;Arquitectura+de+Software+y+Datos;Impulsando+comunidades+Tech&font=Fira+Code&center=false&width=550&height=45&color=3776AB&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
-Me apasiona construir tecnología con propósito real — resolviendo problemas de alto impacto mediante la integración de hardware y software. Mentalidad analítica, orientada a resultados, con foco en arquitecturas backend sólidas e inteligencia artificial aplicada.
+Me apasiona construir tecnología con propósito real, resolviendo problemas de alto impacto mediante la integración de hardware y software. Mentalidad analítica, orientada a resultados, con foco en arquitecturas backend sólidas e inteligencia artificial aplicada.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🖥️ Stack Tecnológico
 
 **IA · Datos · IoT**
 
@@ -19,16 +19,16 @@ Me apasiona construir tecnología con propósito real — resolviendo problemas 
 
 **Desarrollo · Web · Herramientas**
 
-![Web y Tools](https://skillicons.dev/icons?i=cs,java,django,ts,js,react,html,css) <img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular" width="48" style="background-color:#242938; border-radius:11px; margin-bottom:-10px;"/> ![Gestión](https://skillicons.dev/icons?i=git,github,jira)
+![Web y Tools](https://skillicons.dev/icons?i=cs,java,django,ts,js,angular,react,html,css) ![Gestión](https://skillicons.dev/icons?i=git,github,jira)
 
 ---
 ## ⚡ Sobre mí
  
-- 🍄 Me gusta el diseño de una base de datos robusta o entrenar un modelo, también construir interfaces y arquitecturas web — lo que más me engancha es cuando el problema tiene un propósito social.
-- 🍄 **Fun fact:** Cuando no estoy programando ni en algún evento tech, me encuentras en alguna cancha de fútbol, en una butaca de algún teatro o algún cine.
+- 🍄 Me gusta el diseño de una base de datos robusta o entrenar un modelo, también construir interfaces y arquitecturas web, lo que más me engancha es cuando el problema tiene un propósito social.
+- 🍄 **Fun fact:** Cuando no estoy programando ni en algún evento tech, me encuentras en alguna cancha de fútbol, en alguna butaca de teatro o cine.
 
 ---
 
-## 📫 Conectemos
+## 🔗 Conectemos
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laura-cecilia-mendoza-morales/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lauranotfound97) <a href="https://www.facebook.com/Laura1697/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_de_Facebook.png/1280px-Logo_de_Facebook.png" alt="Facebook" width="48" style="background-color:#242938; border-radius:11px;"/> </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-cecilia-mendoza-morales/)  [![Instagram](https://img.shields.io/badge/Instagram-f0444a?style=for-the-badge&logo=instagram&logoColor=white)](https://skillicons.dev/icons?i=instagram)  [![Facebook](https://img.shields.io/badge/-Facebook-242938?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/Laura1697/)
