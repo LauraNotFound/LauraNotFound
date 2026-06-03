@@ -37,4 +37,4 @@
 
 ## 🔗 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-cecilia-mendoza-morales/)  [![Instagram](https://img.shields.io/badge/Instagram-f0444a?style=for-the-badge&logo=instagram&logoColor=white)](https://skillicons.dev/icons?i=instagram)  [![Facebook](https://img.shields.io/badge/-Facebook-242938?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/Laura1697/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-cecilia-mendoza-morales/)  [![Instagram](https://img.shields.io/badge/Instagram-f0444a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lauranotfound97/)  [![Facebook](https://img.shields.io/badge/-Facebook-242938?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/Laura1697/)
